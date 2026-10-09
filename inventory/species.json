@@ -1,0 +1,10 @@
+[
+  {"sku":"TR-OAK","common_name":"Bur Oak","available":8,"enabled":true},
+  {"sku":"TR-MAP","common_name":"Red Maple","available":5,"enabled":true},
+  {"sku":"TR-BIR","common_name":"River Birch","available":4,"enabled":false},
+  {"sku":"TR-ELM","common_name":"Princeton Elm","available":3,"enabled":true},
+  {"sku":"TR-MAP","common_name":" Red Maple ","available":6,"enabled":true},
+  {"sku":"TR-ASH","common_name":"Green|Ash","available":12,"enabled":true},
+  {"sku":"TR-PIN","common_name":"White Pine","available":true,"enabled":true},
+  {"sku":"BAD","common_name":"Invalid stock","available":9,"enabled":true}
+]

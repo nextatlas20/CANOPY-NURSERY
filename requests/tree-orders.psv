@@ -1,0 +1,17 @@
+order_id|district|sku|requested|priority|submitted_on|status
+OR-100|North Ward|TR-OAK|6|school|2041-09-01|pending
+OR-101|River District|TR-MAP|4|emergency|2041-08-29|pending
+OR-102|Hill District|TR-OAK|5|emergency|2041-09-02|pending
+OR-103|Market Ward|TR-MAP|5|standard|2041-09-03|pending
+OR-104|East Schools|TR-ELM|2|school|2041-09-04|pending
+OR-105|Lake Ward|TR-ELM|4|standard|2041-09-04|pending
+OR-106|Canal Ward|TR-BIR|2|emergency|2041-09-01|pending
+OR-107|South Ward|TR-OAK|2|emergency|2041-09-06|pending
+OR-108|West Ward|TR-MAP|1|school|2041-08-28|fulfilled
+OR-109|Old Town|TR-ELM|2|standard|2041-08-30|pending
+OR-109|Old Town|TR-ELM|3|emergency|2041-08-30|pending
+OR-XYZ|Broken Row|TR-OAK|3|standard|2041-09-01|pending
+OR-110|Bad Date|TR-OAK|3|standard|2041-02-30|pending
+OR-111|Unknown Stock|TR-CED|3|school|2041-09-01|pending
+OR-112|Zero Request|TR-OAK|0|standard|2041-09-01|pending
+bad|record
