@@ -1,1 +1,6 @@
 queue_position,order_id,district,sku,species,requested,allocated,result
+1,OR-101,River District,TR-MAP,Red Maple,4,4,full
+2,OR-109,Old Town,TR-ELM,Princeton Elm,3,3,full
+3,OR-102,Hill District,TR-OAK,Bur Oak,5,5,full
+4,OR-100,North Ward,TR-OAK,Bur Oak,6,3,partial
+6,OR-103,Market Ward,TR-MAP,Red Maple,5,2,partial
